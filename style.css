@@ -1,0 +1,12 @@
+input, textarea {
+  box-sizing: border-box;
+  display: block;
+  width: 250px;
+  height: 50px;
+  margin-bottom: 15px;
+  font-family: "Calibri";
+}
+textarea {
+  height: 100px;
+  resize: none;
+}
